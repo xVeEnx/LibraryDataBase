@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/LibraryDataBase.dir/LibraryDataBase.cpp.o  -o LibraryDataBase  liblibb.a 

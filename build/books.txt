@@ -1,0 +1,13 @@
+0;Fifty Shades Of grey;triler;8;0;
+1;W pustyni i w puszczy;comedy;7;0;
+2;Scary book;Horror;8;0;
+3;Krzyzacy;sci-fi;6;0;
+4;Programowania Teoria i praktyka z wykorzystaniem C++;triler;1;2;
+5;Piotrus Pan;sci-fi;0;2;
+6;Lord of the rings;Sci-Fi;3;2;
+7;Cordian;Sci-Fi;0;1;
+8;Tymbark;Criminal;0;2;
+9;Some book;Triler;1;2;
+10;Nitroglicyne;Sci-Fi;3;0;
+11;Some Random Name;Fantasy;3;0;
+12;Some Random Name Prequel;Fantasy;2;4;

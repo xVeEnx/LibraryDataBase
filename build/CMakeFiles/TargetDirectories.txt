@@ -1,0 +1,4 @@
+/home/ubuntu/Desktop/Cmake/Library/LibraryDataBase/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/Cmake/Library/LibraryDataBase/build/CMakeFiles/LibraryDataBase.dir
+/home/ubuntu/Desktop/Cmake/Library/LibraryDataBase/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/Cmake/Library/LibraryDataBase/build/CMakeFiles/libb.dir

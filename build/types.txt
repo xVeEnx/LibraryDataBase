@@ -1,0 +1,7 @@
+0;Sci-Fi;Science Fiction is a genre of speculative fiction ;
+1;Comedy;Category of books which emphazises humor.;
+2;Horror;Film genre that seeks to elicit fear or disgust in its audience for entertainment purposes;
+3;Triler;Triler;4;;;;
+4;Criminal;A book in wchich mystery plays main role;
+5;Fantasy;Not real;
+6;Some Random Type Name;Some Random Type Name;Some Random Descr;

@@ -1,0 +1,6 @@
+0;Dawid Paszkot;32-420 Gdow;Marszowice 224;2;Piotrus Pan;Piotrus Pan;
+1;Jack Hoffman;23-400 Chicago;Chicago 33;0;
+2;Jeff Bezos;313-33 Berlin;Berlin 34;5;Programowania Teoria i praktyka z wykorzystaniem C++;Programowania Teoria i praktyka z wykorzystaniem C++;Lord of the rings;Lord of the rings;Cordian;
+3;Ed Sheeran;32-333 Birmingham;Birmingham 134;4;Tymbark;Tymbark;Some book;Some book;
+4;David Beckham;3-434 London;London eye;0;
+5;Jakob;32-330Pogwizdow;Pogwizdow 0;4;Some Random Name Prequel;Some Random Name Prequel;Some Random Name Prequel;Some Random Name Prequel;

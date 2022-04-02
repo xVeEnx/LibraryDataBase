@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibb.a  CMakeFiles/libb.dir/Library.cpp.o CMakeFiles/libb.dir/Book.cpp.o CMakeFiles/libb.dir/BookType.cpp.o CMakeFiles/libb.dir/LibraryMember.cpp.o
+/usr/bin/ranlib liblibb.a
