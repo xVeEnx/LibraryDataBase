@@ -6,3 +6,9 @@ When you open Library Data Base again program automaticly include data from save
 You can add book to some customer, and then delete it.
 User can show all books in library, show all types of books or  show books of choosen type.
 
+How to run:(You need To have cmake with compiler installed)
+1. Go into build folder in terminal
+2. Delete all content inside.
+3. Type cmake ..
+4. Type make
+5. Open project with: ./LibraryDataBase
